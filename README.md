@@ -6,6 +6,9 @@ This repository contains free resources to learn System Design concepts and prep
 
 Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
 
+## Currently Following
+- [Concept & Coding](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
+
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
@@ -133,6 +136,10 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://amzn.to/4fh2qUZ)
+- [System Design-Byte Byte Go](https://bytebytego.com/)
+
+## 💻 Courses
+- [Grokking System Design By Educative](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
@@ -142,6 +149,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
 - [sudoCODE](https://www.youtube.com/@sudocode)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
+- [Concept & Coding](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
 
 ## 📜 Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
